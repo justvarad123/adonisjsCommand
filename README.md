@@ -82,3 +82,9 @@ const commands = [
 ![handle](https://github.com/justvarad123/adonisjsCommand/assets/33244550/cc91de39-ba52-4511-8c68-945ff344d7a8)
 
 
+## Test
+
+Check PostgreSQL Database:
+
+![data](https://github.com/justvarad123/adonisjsCommand/assets/33244550/6e8c2d2f-f0d5-4d8d-8d86-3e0e42cfe4ed)
+
