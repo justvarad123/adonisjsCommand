@@ -14,7 +14,7 @@ class Quote extends Command {
     async handle(args, options) {
         axios.get("https://api.coingecko.com/api/v3/coins/list?include_platform=true")
             .then(async (res) => {
-                await database.table('coins').returning('symbol').insert(res.data);
+                await database.table('coins').insert(res.data);
             }).then(() => {
                 console.log("Successfully added the data into database!");
                 database.close();
