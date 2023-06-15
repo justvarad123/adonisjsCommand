@@ -79,7 +79,8 @@ const commands = [
 
 4. Add main logic inside `handle()` function:
 
-![handle](https://github.com/justvarad123/adonisjsCommand/assets/33244550/cc91de39-ba52-4511-8c68-945ff344d7a8)
+![handle2](https://github.com/justvarad123/adonisjsCommand/assets/33244550/6f58d39a-5d00-4eba-9e62-6a58452d5e4c)
+
 
 
 ## Test
